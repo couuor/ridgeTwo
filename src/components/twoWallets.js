@@ -24,9 +24,9 @@ const twoWallets = () => {
       </div>
       <div id="descriptionTwo">
         <div className="container">
-          <h1 style={{ textAlign: "right" }}>We Invented It.</h1>
+          <h1 className="secondWords">We Invented It.</h1>
 
-          <p style={{ textAlign: "right" }}>
+          <p className="secondWords">
             The Ridge developed the first dual-track RFID-blocking wallet.
           </p>
 

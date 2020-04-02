@@ -32,6 +32,9 @@ button {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.secondWords {
+  text-align: right;
+}
 @media only screen and (max-width: 600px) {
   #holderDiv {
     display: grid;
@@ -52,5 +55,8 @@ button {
   }
   #descriptionTwo {
     grid-area: 4 / 1 / 5 / 2;
+  }
+  .secondWords {
+    text-align: none;
   }
 }

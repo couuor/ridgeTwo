@@ -33,7 +33,7 @@ const twoWallets = () => {
           </p>
 
           <a href="https://www.ridgewallet.com">
-            <button style={{ float: "right" }}>SHOP NOW</button>
+            <button id="buttonOneShop">SHOP NOW</button>
           </a>
         </div>
       </div>

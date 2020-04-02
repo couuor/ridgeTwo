@@ -35,6 +35,9 @@ button {
 .secondWords {
   text-align: right;
 }
+#buttonOneShop {
+  float: right;
+}
 @media only screen and (max-width: 600px) {
   #holderDiv {
     display: grid;
@@ -58,5 +61,8 @@ button {
   }
   .secondWords {
     text-align: left;
+  }
+  #buttonOneShop {
+    float: left;
   }
 }

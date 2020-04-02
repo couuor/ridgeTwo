@@ -15,7 +15,7 @@ const twoWallets = () => {
 
           <p>The best way to carry your cash and cards since, well, ever.</p>
           <a href="https://www.ridgewallet.com">
-            <button>Shop Now</button>
+            <button>SHOP NOW</button>
           </a>
         </div>
       </div>
@@ -31,7 +31,7 @@ const twoWallets = () => {
           </p>
 
           <a href="https://www.ridgewallet.com">
-            <button style={{ float: "right" }}>Show Now</button>
+            <button style={{ float: "right" }}>SHOP NOW</button>
           </a>
         </div>
       </div>

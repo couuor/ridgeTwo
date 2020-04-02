@@ -6,9 +6,11 @@ import Image4 from "./image4"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `grey`,
+      background: `gray`,
       marginBottom: `1.45rem`,
       position: "sticky",
+      top: 0,
+      zIndex: 99999,
     }}
   >
     <div

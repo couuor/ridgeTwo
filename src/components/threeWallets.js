@@ -10,38 +10,45 @@ const threeWallets = () => {
       <div id="div1A">
         <Image5 />
         <h5 style={{ textAlign: "center" }}>GUNMETAL - $75</h5>
-        <button
-          style={{
-            marginLeft: "50%",
-            transform: "translateX(-50%)",
-          }}
-        >
-          SHOP
-        </button>
+        <a href="https://www.ridgewallet.com/collections/titanium/products/titanium-gunmetal">
+          <button
+            style={{
+              marginLeft: "50%",
+              transform: "translateX(-50%)",
+            }}
+          >
+            SHOP
+          </button>
+        </a>
       </div>
       <div id="div1B">
         <Image6 />
         <h5 style={{ textAlign: "center" }}>TITANIUM - $105</h5>
-        <button
-          style={{
-            marginLeft: "50%",
-            transform: "translateX(-50%)",
-          }}
-        >
-          SHOP
-        </button>
+        <a href="https://www.ridgewallet.com/collections/titanium/products/titanium-burnt">
+          <button
+            style={{
+              marginLeft: "50%",
+              transform: "translateX(-50%)",
+            }}
+          >
+            SHOP
+          </button>
+        </a>
       </div>
+
       <div id="div1C">
         <Image7 />
         <h5 style={{ textAlign: "center" }}>CARBON - $125</h5>
-        <button
-          style={{
-            marginLeft: "50%",
-            transform: "translateX(-50%)",
-          }}
-        >
-          SHOP
-        </button>
+        <a href="https://www.ridgewallet.com/collections/carbon-fiber/products/carbon-fiber">
+          <button
+            style={{
+              marginLeft: "50%",
+              transform: "translateX(-50%)",
+            }}
+          >
+            SHOP
+          </button>
+        </a>
       </div>
     </div>
   )

@@ -6,7 +6,7 @@ import Image4 from "./image4"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `gray`,
+      background: `rgb(243,243,243)`,
       marginBottom: `1.45rem`,
       position: "sticky",
       top: 0,
@@ -21,7 +21,9 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <div style={{ maxWidth: `150px` }}>
-        <Image4 />
+        <a href="https://www.ridgewallet.com">
+          <Image4 />
+        </a>
       </div>
     </div>
   </header>

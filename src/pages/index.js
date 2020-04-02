@@ -11,6 +11,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <TwoWallets />
+    <div style={{ height: "20px" }}></div>
     <ThreeWallets />
   </Layout>
 )

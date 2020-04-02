@@ -14,7 +14,9 @@ const twoWallets = () => {
           <h1>The Wallet, Redefined.</h1>
 
           <p>The best way to carry your cash and cards since, well, ever.</p>
-          <button>Shop Now</button>
+          <a href="https://www.ridgewallet.com">
+            <button>Shop Now</button>
+          </a>
         </div>
       </div>
       <div id="pictureTwo" style={{ maxWidth: "500px" }}>
@@ -28,7 +30,9 @@ const twoWallets = () => {
             The Ridge developed the first dual-track RFID-blocking wallet.
           </p>
 
-          <button style={{ float: "right" }}>Show Now</button>
+          <a href="https://www.ridgewallet.com">
+            <button style={{ float: "right" }}>Show Now</button>
+          </a>
         </div>
       </div>
     </div>
